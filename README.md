@@ -1,2 +1,2 @@
 # PyBuggy
-Python dili ile yazılmış hatalı python kodlarından oluşan veri seti
+Python dili ile yazılmış hatalı kodlarından oluşan bir veri seti. Ver setinde yer alan bütün python kodları gerçek hayatta bir problemi çözen ve bir Python uzmanı tarafından bilinçli bir şekilde hatalar eklenmiş kodlardır. Veri setini oluşturan hatalı Python kodları Söz Dizimi, Mantık ve Tür Uyuşmazlığı hataları olmak üzere üç farklı kategoride ve her hategoriden 50 adet kod barındırmaktadır.
